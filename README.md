@@ -2,7 +2,8 @@
 
 Adopt a cute pupper with this toy dapp hosted with local ganache blockchain.
 
-Screenshot of the page
+Screenshot of the page  
+
 ![Screenshot of the frontpage](screenshot.png)
 
 # Prerequisites
