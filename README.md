@@ -1,14 +1,15 @@
-## Decentralized Pet Adoption
+# Decentralized Pet Adoption
 
 Adopt a cute pupper with this toy dapp hosted with local ganache blockchain.
 
+Screenshot of the page
 ![Screenshot of the frontpage](screenshot.png)
 
 # Prerequisites
 
-1. An ethereum blockchain running on localhost:8546 (![ganache](https://www.trufflesuite.com/ganache))
+1. An ethereum blockchain running on localhost:8546 ([ganache](https://www.trufflesuite.com/ganache))
 2. truffle to compile and migrate contracts (`npm install -g truffle`)
-3. serve to serve the file (`npm install -g serve`)
+3. `serve` to serve the file (`npm install -g serve`)
 4. Metamask connected to the blockchain in 1.
 5. ganache-http-proxy (`npm install -g ganache-http-proxy`) see https://docs.tor.us/developers/getting-started-with-ganache
 
@@ -19,7 +20,7 @@ Adopt a cute pupper with this toy dapp hosted with local ganache blockchain.
 3. Make sure an eth blockchain is running on localhost:8546
 3. `truffle compile`
 4. `truffle migrate`
-5. `truffle test` (to make things are setup correctly)
+5. `truffle test` (to make sure things are setup correctly)
 6. `serve -s build`
 
 # Step to use this app
